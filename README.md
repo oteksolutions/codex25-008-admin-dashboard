@@ -5,16 +5,13 @@
 This project is a responsive Admin Dashboard UI built using HTML and CSS. It provides a structured and visually appealing layout for managing data, users, and settings in a web application.
 <br><br>
 <strong>FEATURES</strong>
-<br>
-Clean and modern UI with an intuitive layout
-<br>
-Fully responsive design for desktops, tablets, and mobile devices
-<br>
-Sidebar navigation for easy access to different sections
-<br>
-Grid-based dashboard layout for better content organization
-<br>
-Pure CSS styling with no external frameworks
+<ul>
+<li>Clean and modern UI with an intuitive layout</li>
+<li>Fully responsive design for desktops, tablets, and mobile devices</li>
+<li>Sidebar navigation for easy access to different sections</li>
+<li>Grid-based dashboard layout for better content organization</li>
+<li>Pure CSS styling with no external frameworks</li>
+</ul>
 <br><br>
 <strong>TECHNOLOGIES USED</strong>
 <br>
