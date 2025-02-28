@@ -22,3 +22,7 @@ This project is a responsive Admin Dashboard UI built using HTML and CSS. It pro
 <li>Implement dark mode for better user experience</li>
 <li>Connect to a backend for real-time data display</li>
 </ul>
+<br>
+<footer>
+    <p>&copy; 2025 Ken Ekweme | <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
